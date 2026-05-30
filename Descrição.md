@@ -1,0 +1,2 @@
+# EloSocial
+O Elo Social é um sistema de 1º semestre de Análise e Desenvolvimento de Sistemas de gestão centralizado em Python e MySQL, desenvolvido para digitalizar e otimizar a administração interna de abrigos e residências de acolhimento social. A plataforma unifica e automatiza o controle de prontuários, o agendamento de consultas médicas e o gerenciamento de prescrições de medicamentos.
